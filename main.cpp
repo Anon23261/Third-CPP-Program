@@ -4,10 +4,10 @@ using namespace std;
 
 int main()
 {
-    int tom, dick, harry;
+    int tom, richard, charles;
     tom = 10;
-    dick = 20;
-    harry = 3254;
-    cout << tom << " " << dick << " " << harry << endl;
+    richard = 20;
+    charles = 3254;
+    cout << tom << " " << richard << " " << charles << endl;
     return 0;
 }
